@@ -4,13 +4,13 @@ public class employee {
     private int id;
     private double salary;
 
-    public Employee() {
+    public employee() {
         this.name = "www";
         this.id = 0;
         this.salary = 0.0;
     }
 
-    public Employee(String name, int id, double salary){
+    public employee(String name, int id, double salary) {
         this.name = name;
         this.id = id;
         this.salary = salary;
