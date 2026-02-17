@@ -1,9 +1,10 @@
-public class Bike implements Drivable{
+public class Bike implements Drivable {
 
-    public void start(){
+    public void start() {
         System.out.println("bike started");
     }
-    public void stop(){
+
+    public void stop() {
         System.out.println("bike started");
     }
 }
