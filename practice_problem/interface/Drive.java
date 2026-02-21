@@ -1,4 +1,4 @@
-interface Drivable {
+interface Drive {
     void start();
 
     void stop();

@@ -1,4 +1,4 @@
-public class Car implements Drivable {
+public class Car implements Drive {
     public void start() {
         System.out.println("car started");
     }

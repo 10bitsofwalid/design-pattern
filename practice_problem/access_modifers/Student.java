@@ -1,9 +1,11 @@
+package practice_problem.access_modifers;
+
 public class Student {
     private String name;
-    private int id;
+    private String id;
     private double cgpa;
 
-    public Student(String name, int id, double cgpa) {
+    public Student(String name, String id, double cgpa) {
         this.name = name;
         this.id = id;
         this.cgpa = cgpa;
@@ -13,7 +15,7 @@ public class Student {
         return name;
     }
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
@@ -25,12 +27,11 @@ public class Student {
         this.name = name;
     }
 
-    public void setID(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
     public void setCgpa(double cgpa) {
         this.cgpa = cgpa;
     }
-
 }
