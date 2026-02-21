@@ -4,6 +4,7 @@ public class Car implements Drivable {
     }
 
     public void stop() {
-        System.out.println("car stopped");
+        System.out.println("car stoped");
     }
+
 }
