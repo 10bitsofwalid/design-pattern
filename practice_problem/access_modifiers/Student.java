@@ -1,4 +1,4 @@
-package practice_problem.access_modifers;
+package access_modifiers;
 
 public class Student {
     private String name;
