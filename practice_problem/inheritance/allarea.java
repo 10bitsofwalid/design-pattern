@@ -1,3 +1,5 @@
+package inheritance;
+
 public class allarea {
     public static void main(String[] args) {
 

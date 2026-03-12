@@ -1,3 +1,5 @@
+package interface;
+
 import java.util.Scanner;
 
 public class bankaccount {
