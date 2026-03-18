@@ -1,13 +1,9 @@
-package SingletonDP2;
+package SingletonDP3;
 
 public class Singleton {
 
     // Private constructor to prevent instantiation from other classes
-    private Singleton() {
-        // TODO: Log "Singleton instance created." whenever the Singleton instance is created
-        System.out.println("Singleton instance is created");
-
-    }
+    private Singleton() { }
 
     // Static inner helper class that holds the Singleton instance
     private static class SingletonHelper {
@@ -17,6 +13,11 @@ public class Singleton {
 
     // Public method to provide access to the Singleton instance
     public static Singleton getInstance() {
-        return SingletonHelper.INSTANCE;
+        return SingletonHelper.INSTANCE; // TODO: Fix this to ensure only one instance is created
+    }
+
+    // Example method for demonstration purposes
+    public void showMessage() {
+        System.out.println("Hello from the Singleton instance!");
     }
 }
