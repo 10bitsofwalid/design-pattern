@@ -1,4 +1,4 @@
-package Applyin_CreationalPattern_inBankingSystem;
+package BankingSystemCP01;
 
 public class DatabaseConnection {
 
