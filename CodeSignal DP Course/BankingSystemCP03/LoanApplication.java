@@ -1,8 +1,8 @@
-package BankingSystemCP3;
+package BankingSystemCP03;
 
 // TODO: Implement the LoanApplication class with a method applyForLoan that accepts a LoanFactory, interestRate, and loanAmount.
-// TODO: The method should use the factory to create and return the appropriate Loan instance.
 
+// TODO: The method should use the factory to create and return the appropriate Loan instance.
 
 public class LoanApplication {
 

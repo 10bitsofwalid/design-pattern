@@ -1,11 +1,11 @@
-package BankingSystemCP3;
+package BankingSystemCP03;
 
 public class Main {
     public static void main(String[] args) {
         // TODO: Use the LoanApplication class to apply for a HomeLoan and CarLoan
 
         // TODO: Print the details of each loan using the loanDetails() method.
-        
+
         LoanApplication application = new LoanApplication();
 
         Loan homeLoan = application.applyForLoan(new HomeLoanFactory(), 3.5, 250000.00);

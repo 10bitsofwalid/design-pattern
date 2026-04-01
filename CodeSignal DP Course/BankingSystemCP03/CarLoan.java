@@ -1,9 +1,9 @@
-package BankingSystemCP3;
+package BankingSystemCP03;
 
 // TODO: Create a class CarLoan that extends Loan.
+
 // TODO: Implement the constructor for CarLoan to initialize interestRate and loanAmount.
 // TODO: Override the loanDetails() method to print loan details for CarLoan.
-
 
 public class CarLoan extends Loan {
 

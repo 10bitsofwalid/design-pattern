@@ -1,4 +1,4 @@
-package BankingSystemCP3;
+package BankingSystemCP03;
 
 // TODO: Define an abstract class Loan with protected fields for interestRate and loanAmount.
 // TODO: Implement a constructor to initialize these fields.
@@ -6,7 +6,7 @@ package BankingSystemCP3;
 
 public abstract class Loan {
     // Define fields and methods based on the TODO comments
-    
+
     protected double interestRate;
     protected double loanAmount;
 

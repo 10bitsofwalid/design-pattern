@@ -1,8 +1,8 @@
-package BankingSystemCP3;
+package BankingSystemCP03;
 
 // TODO: Create a class CarLoanFactory that implements LoanFactory.
-// TODO: Implement the createLoan method to return a new instance of CarLoan.
 
+// TODO: Implement the createLoan method to return a new instance of CarLoan.
 
 public class CarLoanFactory implements LoanFactory {
 

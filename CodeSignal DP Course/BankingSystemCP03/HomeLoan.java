@@ -1,4 +1,4 @@
-package BankingSystemCP3;
+package BankingSystemCP03;
 
 // TODO: Create a class HomeLoan that extends Loan.
 // TODO: Implement the constructor for HomeLoan to initialize interestRate and loanAmount.
