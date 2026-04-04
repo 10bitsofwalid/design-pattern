@@ -5,7 +5,5 @@ public class Main {
         MicroUsb microUsb = new MicroUsb();
         Usb adapter = new Adapter(microUsb);
         adapter.connectWithUsbCable();
-
-
     }
 }
