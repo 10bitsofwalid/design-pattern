@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class bankaccount {
+public class bankAccount {
 
     private String accountHolder;
     private String accountNumber;
     private double balance;
 
-    public bankaccount(String accountHolder, String accountNumber, double initialBalance) {
+    public bankAccount(String accountHolder, String accountNumber, double initialBalance) {
         this.accountHolder = accountHolder;
         this.accountNumber = accountNumber;
         this.balance = initialBalance;
@@ -46,7 +46,7 @@ public class bankaccount {
         System.out.print("Enter initial balance: ");
         double initialBalance = sc.nextDouble();
 
-        bankaccount account = new bankaccount(name, accNumber, initialBalance);
+        bankAccount account = new bankAccount(name, accNumber, initialBalance);
 
         int choice;
         do {
