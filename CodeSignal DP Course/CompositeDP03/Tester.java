@@ -1,4 +1,4 @@
-package CompositeDPD03;
+package CompositeDP03;
 
 public class Tester implements Employee {
     private String testerName;

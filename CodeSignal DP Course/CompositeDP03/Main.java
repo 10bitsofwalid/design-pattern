@@ -1,4 +1,4 @@
-package CompositeDPD03;
+package CompositeDP03;
 
 public class Main {
     public static void main(String[] args) {

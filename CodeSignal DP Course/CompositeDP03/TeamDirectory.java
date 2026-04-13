@@ -1,4 +1,4 @@
-package CompositeDPD03;
+package CompositeDP03;
 
 import java.util.ArrayList;
 import java.util.List;
