@@ -1,0 +1,11 @@
+package BridegePattern;
+
+public abstract class Device {
+    protected OperatingSystem os;
+
+    public Device(OperatingSystem os) {
+        this.os = os;
+    }
+
+    public abstract void start();
+}
