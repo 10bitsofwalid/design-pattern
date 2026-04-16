@@ -1,4 +1,4 @@
-package BridegePattern;
+package BridegePattern01;
 
 public class Printer extends Device {
     public Printer(OperatingSystem os) {

@@ -1,4 +1,4 @@
-package BridegePattern;
+package BridegePattern01;
 
 public class Scanner extends Device {
     public Scanner(OperatingSystem os) {

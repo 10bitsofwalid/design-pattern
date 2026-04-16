@@ -1,4 +1,4 @@
-package BridegePattern;
+package BridegePattern01;
 
 public class MacOS implements OperatingSystem {
     @Override

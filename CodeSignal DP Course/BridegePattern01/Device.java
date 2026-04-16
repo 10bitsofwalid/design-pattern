@@ -1,4 +1,4 @@
-package BridegePattern;
+package BridegePattern01;
 
 public abstract class Device {
     protected OperatingSystem os;

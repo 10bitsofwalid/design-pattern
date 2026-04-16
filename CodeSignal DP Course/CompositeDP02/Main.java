@@ -18,9 +18,7 @@ public class Main {
         File file3 = new File("Spreadsheet.xlsx");
         Folder subFolder = new Folder("SubFolder");
         subFolder.addComponent(file3);
-
         folder.addComponent(subFolder);
         folder.showDetails();
-
     }
 }
