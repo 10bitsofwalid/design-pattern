@@ -1,4 +1,4 @@
-package IntegratingStructyralPatternsinWebApp;
+package IntegratingStructuralPatternsinWebApplication01;
 
 public class SQLDatabaseAdapter implements SQLDatabase {
     private NoSQLDatabase noSQLDatabase;
